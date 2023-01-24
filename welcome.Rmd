@@ -1,0 +1,14 @@
+---
+title: "Welcome_Page"
+author: "Emily Nguyen"
+date: "2023-01-24"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Welcome message
+
+Hello world! this is Emily using R markdown
