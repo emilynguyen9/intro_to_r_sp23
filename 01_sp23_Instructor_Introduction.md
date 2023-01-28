@@ -1,0 +1,33 @@
+01_sp23_instructor_introduction
+================
+Emily Nguyen
+2023-01-26
+
+### **Introduction about Me**
+
+My name is Emily Nguyen. I am a senior at the University of Portland,
+double majoring in Accounting and OTM. I have a job lined up at a firm
+starting in October that I am excited about. I am sure that my OTM
+skills will be useful for this position. During my free time, I like to
+volunteer at my church, assisting second grade teachers. I also like to
+play badminton and watch Korean dramas.
+
+Anyway, I look forward to this class and maybe after, I can attempt to
+get into Python too!
+
+![My picture](Images/Franz_Pic.png) \## <span
+style="text-decoration:underline">**SPRING 2023 COURSES**</span>
+
+*Here is a table of the classes I am taking this term.*
+
+| Classes | Name                        |
+|---------|-----------------------------|
+| THE 353 | Religion & Science          |
+| BUS 456 | Systems Analysis and Design |
+| BUS 461 | Intro to R programming      |
+| BUS 465 | Audit                       |
+| BUS 467 | Income Tax Strategies       |
+| BUS 481 | IT Security                 |
+| THE 353 | Religion & Science          |
+
+[R Coding style](https://www.up.edu/)
